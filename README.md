@@ -10,8 +10,6 @@ Python Django,HTML,CSS,Javascript
 Steps to use:
 1.Download python and IDE
 2.Clone the repository by running command 
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-in your git bash.
 3.Run command cd Ecommerce Website
 
 Screenshots:
